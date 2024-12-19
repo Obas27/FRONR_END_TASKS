@@ -1,0 +1,67 @@
+html {
+    font-family: 'Open Sans', sans-serif;
+ 
+    overflow-x: hidden;
+}
+header{
+    height: 150px;
+   
+}
+header img{
+    width: 100px;
+    right:32.5px;
+    top:32.5px;
+    position: absolute;
+}
+h1 {
+    font-size: 50px;
+  
+  }
+main{
+    background: #ccc;
+}
+article{
+    padding: 20px;
+}
+h2 {
+    margin-top: 0;
+  }
+
+  p {
+    line-height: 2;
+  }
+
+  iframe {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 100%;
+  }
+  .further-info{
+    background: red;
+   
+  }
+  .further-info {
+    clear: left;
+    padding: 40px 0;
+    background: #c13832;
+    box-shadow: inset 0 3px 2px rgba(0,0,0,0.5),
+                inset 0 -3px 2px rgba(0,0,0,0.5);
+  }
+
+  .further-info a {
+    width: 25%;
+    display: block;
+    float: left;
+  }
+
+  .further-info img {
+    max-width: 100%;
+  }
+
+  .clearfix {
+    clear: both;
+  }
+  .red-panda{
+    display: block;
+    max-width: 100%;
+  }
